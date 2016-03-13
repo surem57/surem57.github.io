@@ -1,0 +1,75 @@
+html {
+ height: 100%;
+}
+body {
+  width: 800px;
+  height: 100%;
+  background-color: #d3d3d3;
+}
+
+header {
+   background-color: green ;
+   padding: 5px;
+   font-size: 1em ;
+   display: block;
+   text-align: center;
+   margin: -5px;
+}
+nav {
+   float: left;
+   border-style: solid;
+   border-color: black;
+   border-width: thick;
+   margin: -5px;
+   padding: -10px;
+}
+nav ul {
+   padding: 0px;
+   float: left;
+   border-bottom: ;
+   list-style-type: none;
+}
+nav li {
+   float: left;
+}
+nav li a {
+   display: block;
+   height: 25px;
+   padding: 12px 18px 8px 18px;
+   vertical-align: middle;
+}
+a {
+   color: ;
+}
+section {
+   width: 73%;
+   display: inline-block;
+   float: left;
+}
+aside {
+   width: 17%;
+   display: inline-block;
+   background-color:;
+   padding:;
+   min-height: 100%;
+}
+aside ul {
+   list-style-type: none;
+}
+footer {
+   width: 790px;
+   background-color:;
+   color:;
+   clear: both;
+   display: block;
+}
+
+#fund_others {
+  background-color: red;
+}
+
+
+
+div {
+  margin: 10px;
+}
